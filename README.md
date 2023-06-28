@@ -20,9 +20,9 @@ In my free time, I have a range of personal interests that help me stay balanced
 
 - 🐶 **Karma**: I'm the proud owner of Karma, my four-legged companion. Karma is an adorable and playful dog who accompanies me on my daily adventures. I enjoy spending time outdoors with him and going for long walks.
 
-### Projects
+## Projects
 
-## Movies DDD Typescript
+### Movies DDD Typescript
 
 🎥 **Description**: This project is a practical example of implementing Domain-Driven Design (DDD) architecture in a Node.js application with TypeScript. It focuses on movie management, applying DDD principles and patterns to structure the code in a modular and maintainable way.
 
@@ -30,7 +30,7 @@ In my free time, I have a range of personal interests that help me stay balanced
 
 🔗 **GitHub Repository**: [Movies DDD Typescript](https://github.com/manderdeveloper/movies-ddd-typescript)
 
-###Quicklink
+### Quicklink
 
 🔗 **Description**: Quicklink is a project that demonstrates a more advanced usage of DDD architecture in a Node.js application with TypeScript. In addition to movie management, this project incorporates user management using the Cognito authentication service and a NoSQL database like DynamoDB.
 
