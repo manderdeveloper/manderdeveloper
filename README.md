@@ -26,7 +26,7 @@ In my free time, I have a range of personal interests that help me stay balanced
 
 🎥 **Description**: This project is a practical example of implementing Domain-Driven Design (DDD) architecture in a Node.js application with TypeScript. It focuses on movie management, applying DDD principles and patterns to structure the code in a modular and maintainable way.
 
-🚀 **Technologies**: Node.js, TypeScript, Express, MongoDB.
+🚀 **Technologies**: Node.js, TypeScript, Express.
 
 🔗 **GitHub Repository**: [Movies DDD Typescript](https://github.com/manderdeveloper/movies-ddd-typescript)
 
